@@ -1,0 +1,14 @@
+C:/Users/Mishalia/Desktop/ffmpeg.exe -hide_banner -y -stats -v info -progress pipe:1 -map 0:v:0 -c copy -f null pipe:1 -i C:/Users/Mishalia/Documents/GitHub/6-10-16-20M/16-20Keyframes/Scene6/cat walking.apng 
+=====================================================
+Input #0, apng, from 'C:/Users/Mishalia/Documents/GitHub/6-10-16-20M/16-20Keyframes/Scene6/cat walking.apng':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: apng, rgba(pc), 1920x1080 [SAR 9448:9448 DAR 16:9], 12 fps, 12 tbr, 100k tbn
+Output #0, null, to 'pipe:1':
+  Metadata:
+    encoder         : Lavf59.27.100
+  Stream #0:0: Video: apng, rgba(pc), 1920x1080 [SAR 9448:9448 DAR 16:9], q=2-31, 12 fps, 12 tbr, 100k tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Press [q] to stop, [?] for help
+frame=    1 fps=0.0 q=-1.0 size=N/A time=00:00:00.00 bitrate=N/A speed=N/A    frame=   21 fps=0.0 q=-1.0 Lsize=N/A time=00:00:01.66 bitrate=N/A speed=2.03e+04x    
+video:219kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
