@@ -1,2 +1,2 @@
-C:/Program Files/Krita (x64)/bin/ffprobe.exe  -hide_banner -v warning -of json=compact=1 -show_format -show_streams -i C:/Users/Mishalia/Downloads/scarf2_AZFLn6vI.mp4 
+C:/Program Files/Krita (x64)/bin/ffprobe.exe  -hide_banner -v warning -of json=compact=1 -show_format -show_streams -i C:/Users/Mishalia/Desktop/vr/skirt.mp4 
 =====================================================
